@@ -34,4 +34,4 @@ override.tf.json
 terraform.rc
 
 # Ignore AWS Credentials File
-aws.credentials.rf
+aws.credentials.tf
